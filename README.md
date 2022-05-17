@@ -27,3 +27,6 @@ All resources I use/reccomend gathered in one place.
 - [FontJoy](https://fontjoy.com/), simplifies font pairings;
 - [TextScale](https://www.flaticon.com/), helps you choose the right type scale for your project;
 
+### Utilities
+
+- [JSON Formatter](https://www.freeformatter.com/json-formatter.html), free formatter to convert your file to JSON
