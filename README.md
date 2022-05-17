@@ -29,4 +29,4 @@ All resources I use/reccomend gathered in one place.
 
 ### Utilities
 
-- [JSON Formatter](https://www.freeformatter.com/json-formatter.html), free formatter to convert your file to JSON
+- [JSON Formatter](https://www.freeformatter.com/json-formatter.html?=blank), free formatter to convert your file to JSON
